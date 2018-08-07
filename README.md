@@ -1,8 +1,8 @@
 # DomusErpModule
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/willhoffmann/DomusErpModule/blob/master/LICENSE)
-[![Build Status](https://travis-ci.org/willhoffmann/DomusErpModule.svg?branch=master)](https://travis-ci.org/willhoffmann/DomusErpModule)
-[![Downloads](https://img.shields.io/packagist/dt/willhoffmann/domuserp-php.svg?style=flat-square)](https://packagist.org/packages/willhoffmann/domuserp-module)
+[![Build Status](https://travis-ci.org/willhoffmann/DomusErpModule.svg?branch=master&style=flat-square)](https://travis-ci.org/willhoffmann/DomusErpModule)
+[![Downloads](https://img.shields.io/packagist/dt/willhoffmann/domuserp-module.svg)](https://packagist.org/packages/willhoffmann/domuserp-module)
 
 ZF3 Module to consume the DomusErp API.
 
